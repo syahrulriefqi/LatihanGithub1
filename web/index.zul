@@ -20,6 +20,7 @@ Copyright (C) 2006 Potix Corporation. All Rights Reserved.
 -->
 <zk xmlns="http://www.zkoss.org/2005/zul">
 <window>
-	My ZK application 123 456 fix super fix mantapp sekali
+	My ZK application 123 456 fix super fix mantapp sekali 55
+    <label value="333"/>
 </window>
 </zk>
